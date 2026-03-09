@@ -10,24 +10,24 @@ const products = {
   laptops: [
     {
       id: 1,
-      name: "Laptop HP Pavilion 15",
-      description: "Intel Core i5, 8GB RAM, 256GB SSD, Pantalla 15.6\" Full HD",
-      price: 12999,
-      image: "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400&h=300&fit=crop"
+      name: "Laptop MacBook Pro M1",
+      description: "Chip M1, 16GB RAM, 512GB SSD, Pantalla Retina 13.3\"",
+      price: "$999",
+      image: "images/macbookpro.png"
     },
     {
       id: 2,
-      name: "Laptop Lenovo IdeaPad 3",
-      description: "AMD Ryzen 5, 12GB RAM, 512GB SSD, Pantalla 14\" HD",
-      price: 10999,
-      image: "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=400&h=300&fit=crop"
+      name: "Laptop HP Zbook G5",
+      description: "i7 Xeon(R) E-2186M, 32GB RAM, 512GB SSD, NVIDIA Quadro P1000 4GB, Office 21, Windows 11 Pro",
+      price: 480,
+      image: "images/zbook.png"
     },
     {
       id: 3,
-      name: "Laptop Dell Inspiron 14",
-      description: "Intel Core i7, 16GB RAM, 512GB SSD, Pantalla táctil 14\"",
-      price: 18999,
-      image: "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=400&h=300&fit=crop"
+      name: "Laptop G3 HP EliteBook",
+      description: "Intel Core i5-6300U, 16GB RAM, 256GB SSD, Office 21, Windows 10 Pro",
+      price: 240,
+      image: "images/g3.png"
     },
     {
       id: 4,
