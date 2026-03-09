@@ -12,7 +12,7 @@ const products = {
       id: 1,
       name: "Laptop MacBook Pro M1",
       description: "Chip M1, 16GB RAM, 512GB SSD, Pantalla Retina 13.3\"",
-      price: "$999",
+      price: 400,
       image: "images/macbookpro.png"
     },
     {
